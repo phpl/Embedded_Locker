@@ -1,0 +1,17 @@
+.\objects\main.o: main.c
+.\objects\main.o: main.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\PIN_LPC17xx.h
+.\objects\main.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\RTE_Driver\GPIO_LPC17xx.h
+.\objects\main.o: lcd_lib/LCD_ILI9325.h
+.\objects\main.o: lcd_lib/Open1768_LCD.h
+.\objects\main.o: lcd_lib/asciiLib.h

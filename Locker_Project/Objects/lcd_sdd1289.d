@@ -1,0 +1,9 @@
+.\objects\lcd_sdd1289.o: lcd_lib\LCD_SDD1289.c
+.\objects\lcd_sdd1289.o: lcd_lib\LCD_SDD1289.h
+.\objects\lcd_sdd1289.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\LPC17xx.h
+.\objects\lcd_sdd1289.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cm3.h
+.\objects\lcd_sdd1289.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lcd_sdd1289.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmInstr.h
+.\objects\lcd_sdd1289.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include\core_cmFunc.h
+.\objects\lcd_sdd1289.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.0.0\Device\Include\system_LPC17xx.h
+.\objects\lcd_sdd1289.o: lcd_lib\Open1768_LCD.h
